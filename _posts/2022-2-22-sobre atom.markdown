@@ -7,4 +7,7 @@ author: John Manuel
 ---
 
 #atom edita textos
+<<<<<<< HEAD
 jijijija
+=======
+>>>>>>> 396f9816fe3ac2cee924836dc333260ebdec2780
